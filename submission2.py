@@ -6,7 +6,7 @@ CITY_DATA = {'chicago': 'chicago.csv', 'new york city': 'new_york_city.csv', 'wa
 
 def get_filters():
     """
-    To ask user to input a city, month and day to show their data
+    Asking user to input a city, month and day to show their data
 
     returns:
     (str) city - name of the city
