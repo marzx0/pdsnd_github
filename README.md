@@ -16,4 +16,4 @@ Chicago, New York City and Washington data were provided to explore and build th
 submission2.py is my code and work on the data
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity and MISK
