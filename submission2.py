@@ -43,7 +43,7 @@ def get_filters():
         day = 'all'
 
 
-    print('-'*40)
+    print('-_-'*40)
     return city, month, day
 
 def load_data(city, month, day):
@@ -112,7 +112,7 @@ def time_stats(df):
 
 
     print('\nThis took %s seconds.' % (time.time() - start_time))
-    print('-'*40)
+    print('-_-'*40)
 
 def station_stats(df):
     """"Displaying statistics about stations"""
@@ -133,7 +133,7 @@ def station_stats(df):
     print('The most common combination of start and end stations is:\n',com_comb)
 
     print('\nThis took %s seconds.' % (time.time() - start_time))
-    print('-'*40)
+    print('-_-'*40)
 
 def trip_duration_stats(df):
 
@@ -166,7 +166,7 @@ def trip_duration_stats(df):
 
 
     print('\nThis took %s seconds.' % (time.time() - start_time))
-    print('-'*40)
+    print('-_-'*40)
 
 def user_stats(df):
     """Displaying Statistics about Bike Share users"""
@@ -189,7 +189,7 @@ def user_stats(df):
         print('Earliest User(s) were born in: ', int(year.min()), '\nMost recent is: ', int(year.max()), '\nAnd Most Common birth year is:', int(year.mode()[0]))
 
     print('\nThis took %s seconds.' % (time.time() - start_time))
-    print('-'*40)
+    print('-_-'*40)
 
 
 def show_data(df):
