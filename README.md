@@ -11,7 +11,9 @@ Explore US Bikeshare Data
 The project provide statistical summaries about three cities from Bikeshare data in the US
 
 ### Files used
-Include the files used
+Chicago, New York City and Washington data were provided to explore and build the code on them
+
+submission2.py is my code and work on the data
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
