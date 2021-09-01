@@ -8,7 +8,7 @@ Second (current) addition on Sep 1st, 2021
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The project provide statistical summaries about three cities from Bikeshare data in the US
 
 ### Files used
 Include the files used
